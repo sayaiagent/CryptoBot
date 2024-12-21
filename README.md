@@ -1,7 +1,4 @@
-<a href="https://chat.vercel.ai/">
-  <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
-  <h1 align="center">Next.js CryptoAI Chatbot</h1>
-</a>
+ 
 
 <p align="center">
 Developed using an open-source AI chatbot template built with Next.js and the AI SDK by Vercel. Memescout uses the Gecko Terminal API to receive data for cryptocurrency prices and trading view 
