@@ -4,10 +4,14 @@
 </a>
 
 <p align="center">
-Developed using an open-source AI chatbot template built with Next.js and the AI SDK by Vercel.
+Developed using an open-source AI chatbot template built with Next.js and the AI SDK by Vercel. Memescout uses the Gecko Terminal API to receive data for cryptocurrency prices and trading view 
 </p>
 
 <p align="center">
+
+https://github.com/user-attachments/assets/109bc2cf-9dfb-431c-80b5-a3511a05b9dc
+
+
   <a href="#features"><strong>Features</strong></a> ·
   <a href="#model-providers"><strong>Model Providers</strong></a> ·
   <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
